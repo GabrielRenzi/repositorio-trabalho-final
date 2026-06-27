@@ -1,0 +1,12 @@
+[
+  {"id": 1, "titulo": "Introdução a Cloud Computing", "duracao": "45:00", "instrutor": "Ademar"},
+  {"id": 2, "titulo": "Entendendo o modelo IaaS", "duracao": "30:15", "instrutor": "Maria"},
+  {"id": 3, "titulo": "Configurando VPC na AWS", "duracao": "50:20", "instrutor": "Carlos"},
+  {"id": 4, "titulo": "Kubernetes e K3s Básico", "duracao": "60:00", "instrutor": "Ana"},
+  {"id": 5, "titulo": "Pipelines CI/CD na Prática", "duracao": "40:10", "instrutor": "Ademar"},
+  {"id": 6, "titulo": "Testes Unitários em Python", "duracao": "35:00", "instrutor": "Pedro"},
+  {"id": 7, "titulo": "Monitoramento de APIs", "duracao": "25:30", "instrutor": "Maria"},
+  {"id": 8, "titulo": "Segurança em Nuvem", "duracao": "55:45", "instrutor": "Carlos"},
+  {"id": 9, "titulo": "O que é DevOps?", "duracao": "20:00", "instrutor": "Ana"},
+  {"id": 10, "titulo": "Deploy Contínuo com GitHub Actions", "duracao": "48:15", "instrutor": "Pedro"}
+]
